@@ -1,8 +1,6 @@
 # goeks-app
-Gemeinsames DevGroup Projekt
+Gemeinsames DevGroup Projekt zur Entwicklung einer Application
 
-Test-Zeile
+Projekt im Aufbau
 
-lokale Aenderung
-
-rtwe's Änderung
+test.txt für Tests: Mitarbeiter, die einfach mal Funktionalitäten ausprobieren möchten, können das gern in und mit 'test.txt' machen.
