@@ -2,4 +2,4 @@ test.txt
 
 File zum Üben und Ausprobieren der GitHub-Funktionen
 
-2017-02-16 23:22 MichaelPae hat seine Schreibrechte geprüft.
+2017-02-16 23:59 MichaelPae hat seine Schreibrechte geprüft.
