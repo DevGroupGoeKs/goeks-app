@@ -9,3 +9,5 @@ File zum Üben und Ausprobieren der GitHub-Funktionen
 2017-02-24 10:10 Hermann hat seinen Senf auch dazugegeben ;-))
 
 2017-03-03 15:58 Schönes Wochenende wünscht euch Ralph.
+
+2017-03-08 16:30 Jezt kann auch ich von meinem Mac aus zugreifen. Jürgen
