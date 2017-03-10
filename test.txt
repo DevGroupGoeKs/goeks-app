@@ -1,4 +1,4 @@
-test.txt
+﻿test.txt
 
 File zum Üben und Ausprobieren der GitHub-Funktionen
 
@@ -11,3 +11,5 @@ File zum Üben und Ausprobieren der GitHub-Funktionen
 2017-03-03 15:58 Schönes Wochenende wünscht euch Ralph.
 
 2017-03-08 16:30 Jezt kann auch ich von meinem Mac aus zugreifen. Jürgen
+
+2017-03-10 09:43 Martins Notebook ist jetzt einsatzbereit
