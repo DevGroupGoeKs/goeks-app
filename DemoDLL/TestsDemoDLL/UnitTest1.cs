@@ -20,7 +20,7 @@ namespace TestsDemoDLL
         {
             var sut = new Class1();
             var result = sut.GetDieRichtigeAntwortAufAlles();
-            Assert.AreNotEqual(42, result);
+            Assert.AreNotEqual(11, result);
         }
     }
 }
