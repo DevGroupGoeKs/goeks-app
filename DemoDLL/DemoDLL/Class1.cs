@@ -8,5 +8,11 @@ namespace DemoDLL
 {
     public class Class1
     {
+
+        public int GetDieRichtigeAntwortAufAlles()
+        {
+            return 42;
+        } 
+
     }
 }
