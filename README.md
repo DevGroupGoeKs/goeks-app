@@ -1,5 +1,5 @@
 <!-- .md steht für die Auszeichnungssprache MARKDOWN siehe: https://de.wikipedia.org/wiki/Markdown -->
-# goeks-app <!-- Beispiel für inline comment --> [(nächstes Treffen am 21. März 2017)][ref-naechstes-treffen] 
+# goeks-app <!-- Beispiel für inline comment --> [(nächstes Treffen)][ref-naechstes-treffen] 
 Gemeinsames DevGroup Projekt zur Entwicklung einer Application
 
 Projekt im Aufbau
